@@ -34,23 +34,27 @@ Me interesa entender cómo se conectan el frontend, el backend, las bases de dat
 
 `Git` `GitHub` `Visual Studio Code` `Power BI` `Postman`
 
-## 🚀 Proyectos en desarrollo
+## 🚀 Proyectos destacados
 
-### Focusly
+### 🛡️ HomeShield
 
-Landing page moderna para una plataforma enfocada en productividad y concentración.
+Proyecto modular construido sobre Raspberry Pi para integrar seguridad de red, servicios autohospedados y automatización doméstica. Su primer módulo funcional utiliza Pi-hole, Docker Compose y DNS local para bloquear dominios publicitarios y rastreadores.
 
-### HomeShield
+### 🅿️ Smart Parking
 
-Proyecto modular construido sobre Raspberry Pi para integrar servicios de red, seguridad, automatización y herramientas autohospedadas.
+Aplicación diseñada para consultar y administrar la disponibilidad de espacios de estacionamiento. Incluye gestión de usuarios, vehículos, distintos roles de acceso y una arquitectura orientada a frontend, backend y base de datos.
 
-### Smart Parking
+### 📊 Automatización de datos de Querétaro
 
-Aplicación para consultar la disponibilidad de espacios de estacionamiento y facilitar su administración.
+Sistema para validar, procesar y organizar información mediante scripts automatizados. Incluye revisión de archivos, detección de errores, registros de ejecución y generación de resultados para facilitar el análisis de datos.
 
-### Automatización de datos
+### 🤖 Carlos AI Lab
 
-Herramientas para validar, procesar y organizar información mediante scripts, registros de actividad y reportes.
+Laboratorio personal para experimentar con inteligencia artificial local y automatización utilizando Ubuntu, Docker, Ollama y Open WebUI, bajo un enfoque de supervisión humana y permisos controlados.
+
+### 🎯 Focusly
+
+Landing page moderna para una plataforma enfocada en productividad y concentración. Proyecto desarrollado para fortalecer mis habilidades en diseño frontend, interfaces responsivas y organización profesional de código.
 
 ## 🌱 Actualmente estoy aprendiendo
 
