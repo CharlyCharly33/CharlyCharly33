@@ -1,4 +1,4 @@
-# Hola, soy Carlos Cerda Sierra 👋
+# Hola, soy Carlos Cerda 👋
 
 ### Desarrollo Full Stack | Automatización | Datos | Infraestructura TI
 
