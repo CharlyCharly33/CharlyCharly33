@@ -52,9 +52,11 @@ Sistema para validar, procesar y organizar información mediante scripts automat
 
 Laboratorio personal para experimentar con inteligencia artificial local y automatización utilizando Ubuntu, Docker, Ollama y Open WebUI, bajo un enfoque de supervisión humana y permisos controlados.
 
-### 🎯 Focusly
+### 🎯 [Focusly](https://github.com/CharlyCharly33/focusly-landing-page)
 
-Landing page moderna para una plataforma enfocada en productividad y concentración. Proyecto desarrollado para fortalecer mis habilidades en diseño frontend, interfaces responsivas y organización profesional de código.
+Landing page moderna y responsiva para una plataforma enfocada en productividad y concentración. Desarrollada con HTML, CSS y JavaScript para fortalecer mis habilidades en diseño frontend y organización profesional de código.
+
+[🌐 Ver demostración](https://charlycharly33.github.io/focusly-landing-page/) · [💻 Ver código](https://github.com/CharlyCharly33/focusly-landing-page)
 
 ## 🌱 Actualmente estoy aprendiendo
 
