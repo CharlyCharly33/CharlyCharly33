@@ -1,72 +1,91 @@
 # Hola, soy Carlos Cerda
 
-### Desarrollo Full Stack | Automatización | Datos | Infraestructura TI
+**Ingeniería en Sistemas Computacionales | Infraestructura IT | Desarrollo de Software | Automatización**
 
-Soy estudiante de Ingeniería en Sistemas Computacionales, con experiencia práctica en soporte técnico, infraestructura TI, redes y administración de sistemas. Actualmente estoy fortaleciendo mis habilidades en desarrollo de software mediante la creación de proyectos reales.
+Me interesa construir soluciones tecnológicas entendiendo cómo se conectan el software, las bases de datos, las redes y la infraestructura que los hace funcionar.
 
-Me interesa entender cómo se conectan el frontend, el backend, las bases de datos y la infraestructura para construir soluciones completas, útiles y bien organizadas.
+Soy estudiante de Ingeniería en Sistemas Computacionales en la Universidad del Valle de México (UVM), con experiencia profesional en soporte e infraestructura IT y participación en proyectos de desarrollo de software.
 
-##  Sobre mí
+Mi enfoque combina aprendizaje práctico, resolución de problemas y desarrollo asistido por inteligencia artificial, utilizando estas herramientas para comprender, construir y mejorar soluciones.
 
-- 🎓 Estudiante de Ingeniería en Sistemas Computacionales.
-- 💻 En formación como desarrollador Full Stack.
-- 🛠️ Experiencia en soporte técnico e infraestructura TI.
-- 📊 Interés en automatización, bases de datos y análisis de información.
-- 🌐 Conocimientos de redes, servidores y servicios autohospedados.
-- 🤖 Explorando inteligencia artificial aplicada al desarrollo y la automatización.
-- 📍 Querétaro, México.
+**[Portafolio](https://portfolio-carlos-cerda.carloscerda.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/carlos-alberto-cerda-sierra-266604256/)**
 
-##  Tecnologías y herramientas
+---
 
-**Frontend**
+## Experiencia profesional
 
-`HTML` `CSS` `JavaScript` `React` `TypeScript`
+**eSoft Pasión por la Tecnología | Ingeniería de software**  
+*Agosto 2026 – Actualidad*
 
-**Backend y bases de datos**
+Participación en proyectos de desarrollo web y aplicaciones empresariales, colaborando en interfaces, componentes, funcionalidades y gestión de cambios con Git y GitHub.
 
-`Node.js` `PHP` `MySQL` `SQL Server`
+**TE Connectivity | Infraestructura y soporte IT**  
+*Junio 2025 – Junio 2026*
 
-**Infraestructura y automatización**
+Experiencia en diagnóstico y soporte de equipos, administración de usuarios, Active Directory, gestión de solicitudes mediante ServiceNow, conectividad de red y herramientas tecnológicas en un entorno empresarial e industrial.
 
-`Docker` `Raspberry Pi` `Linux` `Pi-hole` `PowerShell`
+---
 
-**Herramientas**
+## Tecnologías y herramientas
 
-`Git` `GitHub` `Visual Studio Code` `Power BI` `Postman`
+| Área | Tecnologías |
+|---|---|
+| Desarrollo web | HTML, CSS, JavaScript, React, TypeScript, Astro, Tailwind CSS |
+| Backend y datos | Node.js, NestJS, PHP, PostgreSQL, MySQL, SQL Server, Prisma |
+| Infraestructura IT | Linux, Docker, Docker Compose, Raspberry Pi, DNS, Pi-hole, Active Directory |
+| Automatización e IA | Python, PowerShell, Ollama, MCP, herramientas de desarrollo asistido por IA |
+| Trabajo y herramientas | Git, GitHub, Visual Studio Code, ServiceNow, Postman, Power BI |
 
-##  Proyectos destacados
+*Mi experiencia combina herramientas utilizadas profesionalmente, tecnologías aplicadas en proyectos personales y conocimientos que continúo desarrollando.*
 
-###  HomeShield
+---
 
-Proyecto modular construido sobre Raspberry Pi para integrar seguridad de red, servicios autohospedados y automatización doméstica. Su primer módulo funcional utiliza Pi-hole, Docker Compose y DNS local para bloquear dominios publicitarios y rastreadores.
+## Proyectos seleccionados
 
-###  Smart Parking
+### [HomeShield](https://github.com/CharlyCharly33/homeshield) — Infraestructura y servicios autohospedados
 
-Aplicación diseñada para consultar y administrar la disponibilidad de espacios de estacionamiento. Incluye gestión de usuarios, vehículos, distintos roles de acceso y una arquitectura orientada a frontend, backend y base de datos.
+Plataforma modular basada en Raspberry Pi 4 y Linux para implementar servicios de red domésticos. Su primer módulo, **HomeShield DNS 1.0**, utiliza Pi-hole, Docker Compose y Portainer para administrar un servicio DNS con filtrado y bloqueo de dominios.
 
-###  Automatización de datos de Querétaro
+**Tecnologías:** Linux · Docker · Raspberry Pi · Pi-hole · DNS  
+**Estado:** primer módulo funcional; plataforma general en desarrollo.
 
-Sistema para validar, procesar y organizar información mediante scripts automatizados. Incluye revisión de archivos, detección de errores, registros de ejecución y generación de resultados para facilitar el análisis de datos.
+### [HabitTrack](https://github.com/CharlyCharly33/HabitTrack) — Aplicación web de seguimiento de hábitos
 
-###  Carlos AI Lab
+Prototipo interactivo de una aplicación para organizar hábitos, visualizar el progreso diario y gestionar actividades mediante una interfaz responsive.
 
-Laboratorio personal para experimentar con inteligencia artificial local y automatización utilizando Ubuntu, Docker, Ollama y Open WebUI, bajo un enfoque de supervisión humana y permisos controlados.
+**Tecnologías:** Astro · React · TypeScript · Tailwind CSS  
+**Estado:** primera fase de interfaz completada; persistencia y autenticación pendientes.
 
-###  [Focusly](https://github.com/CharlyCharly33/focusly-landing-page)
+### Kivonex — Sistema de gestión para gimnasios
 
-Landing page moderna y responsiva para una plataforma enfocada en productividad y concentración. Desarrollada con HTML, CSS y JavaScript para fortalecer mis habilidades en diseño frontend y organización profesional de código.
+Proyecto personal orientado al desarrollo de una aplicación para centralizar la gestión de socios, planes, membresías y pagos.
 
-[ Ver demostración](https://charlycharly33.github.io/focusly-landing-page/) · [ Ver código](https://github.com/CharlyCharly33/focusly-landing-page)
+Cuenta con una arquitectura inicial de frontend, backend y base de datos, además de una base de autenticación implementada.
 
-##  Actualmente estoy aprendiendo
+**Tecnologías:** React · TypeScript · NestJS · PostgreSQL · Prisma · Docker  
+**Estado:** MVP en desarrollo; repositorio privado.
 
-- Desarrollo de aplicaciones con React y TypeScript.
-- Creación y consumo de APIs.
-- Arquitectura frontend y backend.
-- Automatización de procesos.
-- Integración de inteligencia artificial en proyectos reales.
-- Buenas prácticas con Git y GitHub.
+### Armando — Laboratorio de inteligencia artificial y automatización
 
-##  Mi objetivo
+Laboratorio técnico para experimentar con modelos de lenguaje, herramientas de IA y protocolos de integración.
 
-Continuar desarrollando proyectos que combinen software, automatización, datos e infraestructura, mientras construyo experiencia profesional y fortalezco mis habilidades como desarrollador.
+Incluye pruebas con Ollama, OpenCode y Model Context Protocol (MCP), bajo principios de seguridad, validación y supervisión humana.
+
+**Tecnologías:** Ollama · MCP · APIs · Git · herramientas de IA  
+**Estado:** investigación y experimentación; repositorio privado.
+
+---
+
+## En qué estoy trabajando
+
+Actualmente concentro mi aprendizaje práctico en tres áreas:
+
+- **Ingeniería de software:** arquitectura frontend/backend, integración de APIs y bases de datos.
+- **Infraestructura y sistemas:** Linux, contenedores, servicios de red y administración tecnológica.
+- **Inteligencia artificial aplicada:** agentes, herramientas, integraciones y automatización con supervisión humana.
+
+Mi objetivo es continuar creciendo profesionalmente tanto en infraestructura IT como en desarrollo de software, aportando capacidad de análisis, comprensión de sistemas y soluciones orientadas a necesidades reales.
+
+---
+
+**Querétaro, México · [Portafolio profesional](https://portfolio-carlos-cerda.carloscerda.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/carlos-alberto-cerda-sierra-266604256/)**
